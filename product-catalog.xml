@@ -1,0 +1,9 @@
+<catalog>
+    <!-- Sample Product -->
+    <product>
+        <name>Sample Product</name>
+        <description>This is a sample product description.</description>
+        <price>19.99</price>
+        <image>sample-product.jpg</image>
+    </product>
+</catalog>
